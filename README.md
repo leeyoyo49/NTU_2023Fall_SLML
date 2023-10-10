@@ -6,3 +6,7 @@ Since this course is hard as hell for my grade(2nd yr), so I decided to put my c
 Each hw is in their folder.
 
 With problem.pdf/.ipynb, and my answer, which might be wrong, but can be help for future students.
+
+hw1 ddl: 9/28
+
+hw2 ddl: 10/20
