@@ -17,6 +17,7 @@ notebook = "^7.0.4"
 pillow = "^10.0.1"
 ucimlrepo = "^0.0.2"
 yfinance = "^0.2.31"
+adjusttext = "^0.8"
 
 
 [tool.poetry.group.dev.dependencies]
